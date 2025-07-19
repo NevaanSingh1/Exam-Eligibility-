@@ -1,0 +1,7 @@
+print("Welcome to the Exam Eligibility Checker!")
+age = int(input("Enter your age: "))
+if age < 18:
+    print("You are eligible to take the exam.")
+else:
+    print ("You are not eligible to take the exam.")
+
